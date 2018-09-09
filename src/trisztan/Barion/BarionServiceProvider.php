@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelHungary\Barion;
+namespace trisztan\Barion;
 
 use GuzzleHttp\Client;
 use Illuminate\Support\ServiceProvider;
-use LaravelHungary\Barion\Enums\BarionEndpoint;
+use trisztan\Barion\Enums\BarionEndpoint;
 
 class BarionServiceProvider extends ServiceProvider
 {

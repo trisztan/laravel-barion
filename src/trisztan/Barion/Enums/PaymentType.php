@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelHungary\Barion\Enums;
+namespace trisztan\Barion\Enums;
 
 class PaymentType
 {

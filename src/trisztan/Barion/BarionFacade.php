@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelHungary\Barion;
+namespace trisztan\Barion;
 
 use Illuminate\Support\Facades\Facade;
 

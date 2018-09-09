@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelHungary\Barion\Exceptions;
+namespace trisztan\Barion\Exceptions;
 
 use Exception;
 

@@ -1,5 +1,5 @@
 {
-  "name": "laravelhungary/laravel-barion",
+  "name": "trisztan/laravel-barion",
   "description": "Simple Laravel wrapper for the API of the Barion online payment system",
   "license": "MIT",
   "authors": [
@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "LaravelHungary\\Barion\\": "src/LaravelHungary/Barion"
+      "trisztan\\Barion\\": "src/trisztan/Barion"
     }
   },
   "require-dev": {
@@ -26,7 +26,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "LaravelHungary\\Barion\\BarionServiceProvider"
+        "trisztan\\Barion\\BarionServiceProvider"
       ]
     }
   }
